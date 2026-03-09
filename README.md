@@ -56,4 +56,4 @@ Certifique-se de que o SQL Server está rodando localmente.
 Inicie a aplicação: Pressione F5.
 
 ✒️ Autor
-Alfredo Ventura - Seu Perfil no GitHub
+Alfredo Ventura
